@@ -1,0 +1,14 @@
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.deps.json
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.runtimeconfig.json
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.dll
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.pdb
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.AssemblyInfoInputs.cache
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.AssemblyInfo.cs
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.csproj.CoreCompileInputs.cache
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.dll
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/refint/MeuPrimeiroApp.dll
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.pdb
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.genruntimeconfig.cache
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/ref/MeuPrimeiroApp.dll
