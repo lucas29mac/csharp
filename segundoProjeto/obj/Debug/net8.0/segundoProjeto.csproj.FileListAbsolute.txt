@@ -1,0 +1,15 @@
+/home/imbeluser/Projetos/csharp/segundoProjeto/bin/Debug/net8.0/segundoProjeto
+/home/imbeluser/Projetos/csharp/segundoProjeto/bin/Debug/net8.0/segundoProjeto.deps.json
+/home/imbeluser/Projetos/csharp/segundoProjeto/bin/Debug/net8.0/segundoProjeto.runtimeconfig.json
+/home/imbeluser/Projetos/csharp/segundoProjeto/bin/Debug/net8.0/segundoProjeto.dll
+/home/imbeluser/Projetos/csharp/segundoProjeto/bin/Debug/net8.0/segundoProjeto.pdb
+/home/imbeluser/Projetos/csharp/segundoProjeto/obj/Debug/net8.0/segundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/imbeluser/Projetos/csharp/segundoProjeto/obj/Debug/net8.0/segundoProjeto.AssemblyInfoInputs.cache
+/home/imbeluser/Projetos/csharp/segundoProjeto/obj/Debug/net8.0/segundoProjeto.AssemblyInfo.cs
+/home/imbeluser/Projetos/csharp/segundoProjeto/obj/Debug/net8.0/segundoProjeto.csproj.CoreCompileInputs.cache
+/home/imbeluser/Projetos/csharp/segundoProjeto/obj/Debug/net8.0/segundoProjeto.sourcelink.json
+/home/imbeluser/Projetos/csharp/segundoProjeto/obj/Debug/net8.0/segundoProjeto.dll
+/home/imbeluser/Projetos/csharp/segundoProjeto/obj/Debug/net8.0/refint/segundoProjeto.dll
+/home/imbeluser/Projetos/csharp/segundoProjeto/obj/Debug/net8.0/segundoProjeto.pdb
+/home/imbeluser/Projetos/csharp/segundoProjeto/obj/Debug/net8.0/segundoProjeto.genruntimeconfig.cache
+/home/imbeluser/Projetos/csharp/segundoProjeto/obj/Debug/net8.0/ref/segundoProjeto.dll

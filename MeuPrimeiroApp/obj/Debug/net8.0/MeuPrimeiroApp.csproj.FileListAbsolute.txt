@@ -12,3 +12,4 @@
 /home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.pdb
 /home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.genruntimeconfig.cache
 /home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/ref/MeuPrimeiroApp.dll
+/home/imbeluser/Projetos/csharp/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.sourcelink.json
