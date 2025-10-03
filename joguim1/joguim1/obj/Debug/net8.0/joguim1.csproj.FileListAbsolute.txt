@@ -1,0 +1,15 @@
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/bin/Debug/net8.0/joguim1
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/bin/Debug/net8.0/joguim1.deps.json
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/bin/Debug/net8.0/joguim1.runtimeconfig.json
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/bin/Debug/net8.0/joguim1.dll
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/bin/Debug/net8.0/joguim1.pdb
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/obj/Debug/net8.0/joguim1.GeneratedMSBuildEditorConfig.editorconfig
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/obj/Debug/net8.0/joguim1.AssemblyInfoInputs.cache
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/obj/Debug/net8.0/joguim1.AssemblyInfo.cs
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/obj/Debug/net8.0/joguim1.csproj.CoreCompileInputs.cache
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/obj/Debug/net8.0/joguim1.sourcelink.json
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/obj/Debug/net8.0/joguim1.dll
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/obj/Debug/net8.0/refint/joguim1.dll
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/obj/Debug/net8.0/joguim1.pdb
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/obj/Debug/net8.0/joguim1.genruntimeconfig.cache
+/home/machado/Engenharia/Projetos/csharp/csharp/joguim1/joguim1/obj/Debug/net8.0/ref/joguim1.dll
