@@ -1,0 +1,15 @@
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/bin/Debug/net8.0/desafio7
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/bin/Debug/net8.0/desafio7.deps.json
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/bin/Debug/net8.0/desafio7.runtimeconfig.json
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/bin/Debug/net8.0/desafio7.dll
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/bin/Debug/net8.0/desafio7.pdb
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/obj/Debug/net8.0/desafio7.GeneratedMSBuildEditorConfig.editorconfig
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/obj/Debug/net8.0/desafio7.AssemblyInfoInputs.cache
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/obj/Debug/net8.0/desafio7.AssemblyInfo.cs
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/obj/Debug/net8.0/desafio7.csproj.CoreCompileInputs.cache
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/obj/Debug/net8.0/desafio7.sourcelink.json
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/obj/Debug/net8.0/desafio7.dll
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/obj/Debug/net8.0/refint/desafio7.dll
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/obj/Debug/net8.0/desafio7.pdb
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/obj/Debug/net8.0/desafio7.genruntimeconfig.cache
+/home/machado/Engenharia/Projetos/csharp/csharp/desafio7/desafio7/obj/Debug/net8.0/ref/desafio7.dll
