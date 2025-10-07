@@ -1,0 +1,15 @@
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/obj/Debug/net8.0/desafio8.GeneratedMSBuildEditorConfig.editorconfig
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/obj/Debug/net8.0/desafio8.AssemblyInfoInputs.cache
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/obj/Debug/net8.0/desafio8.AssemblyInfo.cs
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/obj/Debug/net8.0/desafio8.csproj.CoreCompileInputs.cache
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/obj/Debug/net8.0/desafio8.sourcelink.json
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/bin/Debug/net8.0/desafio8
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/bin/Debug/net8.0/desafio8.deps.json
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/bin/Debug/net8.0/desafio8.runtimeconfig.json
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/bin/Debug/net8.0/desafio8.dll
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/bin/Debug/net8.0/desafio8.pdb
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/obj/Debug/net8.0/desafio8.dll
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/obj/Debug/net8.0/refint/desafio8.dll
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/obj/Debug/net8.0/desafio8.pdb
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/obj/Debug/net8.0/desafio8.genruntimeconfig.cache
+/home/imbeluser/Projetos/csharp/desafio8/desafio8/obj/Debug/net8.0/ref/desafio8.dll
